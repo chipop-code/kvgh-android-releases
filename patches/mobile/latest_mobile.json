@@ -1,0 +1,8 @@
+{
+  "platform": "ANDROID",
+  "version": "1.0.11",
+  "build_number": 232,
+  "patch_file": "kvgh_mobile_patch_v1.0.11_b232.kvghp",
+  "patch_sha256": "3992ecfbe18618c1d2052acb0a89a303c9197cc423ae3eae501fe883382000a0",
+  "updated_at": 1795454834
+}
